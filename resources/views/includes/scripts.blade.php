@@ -1,0 +1,11 @@
+<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.singlePageNav.min.js"></script>
+	<script src="js/jquery.fancybox.pack.js"></script>
+	<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.easing.min.js"></script>
+	<script src="js/jquery.slitslider.js"></script>
+	<script src="js/jquery.ba-cond.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/main.js"></script>
